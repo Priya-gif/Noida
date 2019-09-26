@@ -1,0 +1,65 @@
+html,body{margin:0px;padding:0px;font-family:sans;background:#fff;}
+html{overflow:hidden;}
+body{overflow-y:hidden;}
+h2{margin-top:0px;}
+pre{position:absolute;top:0px;left:0px;}
+iframe#advert{margin-left:10px;margin-top:10px;opacity:1;overflow:hidden;}
+div#adv{position:absolute;top:-4px;z-index:1;font-size:11px;padding-left:35px;}
+div#adv_frame{border-color:#d6d6d6;border-width:3px;border-style:solid;border-radius:10px;width:310px;height:260px;margin:0px;padding:0px;}
+div#adv_frame iframe{margin-top:5px;margin-left:5px;}
+div#adv_frame img{margin-top:10px;margin-left:10px;}
+div#wadContent{padding:0;text-align:center;}
+div#standardContainer{text-align:left;margin:0 auto;width:674px;height:540px;}
+div{font-family:Helvetica;padding:0px;}
+div#notifierHeader{height:70px;}
+#notifierLogo{float:left;width:180px;}
+#headerMiddle{position:relative;width:300px;left:40px;float:left;}
+#notifierBook{width:65px;float:right;margin-top:10px;}
+div#leftColumn{clear:both;float:left;width:354px;padding-left:0px;position:relative;height:439px;}
+div#textLeft{height:auto;}
+div#textLeft p{font-size:14px;line-height:17px;}
+div#textLeft p#last{margin-bottom:0px;}
+div#exp_ring{position:absolute;bottom:5px;}
+div#ring{float:left;padding-left:10px;padding-top:5px;}
+div#ring img{height:78px;width:78px;}
+div#trial{padding-top:5px;}
+div#trial span{color:#3F48CC;font-size:22px;line-height:22px;margin:0;}
+div#trial p{text-align:center;margin-top:0px;}
+div#ring-clear{clear:both;padding-left:10px;position:absolute;bottom:5px;}
+div#ring-clear p{font-size:14px;margin:0;padding-top:0px;}
+div#leftTextTop p{text-align:left;}
+div#leftTextTop span{font-weight:bold;font-size:20px;line-height:20px;color:#133C8A;}
+div#bottomLeftOffer{height:155px;position:relative;margin:0 auto;}
+div#bottomLeftOffer p{margin-top:0px;margin-bottom:0px;}
+div#frameLeft{border-color:#d6d6d6;border-width:3px;border-style:solid;border-radius:10px;width:344px;height:144px;margin-left:0px;margin-top:0px;padding-left:0px;padding-top:0px;}
+div#rightColumn{float:right;height:auto;padding-right:4px;margin-top:0px;}
+div#frameOffer{height:auto;position:relative;top:0px;left:0px;text-align:center;}
+div#frameImageContainer{width:306px;}
+img#frameImageImg{width:306px;height:439px;}
+div#boxOffer{height:162px;position:absolute;top:30px;left:0px;width:91px;}
+div#boxImage{height:162px;width:91px;margin:0 auto;}
+div#boxImage img{height:100px;width:91px;}
+div#placeholder{display:none;}
+div#percentOffer{position:absolute;top:20px;left:140px;display:none;}
+div#versionOffer{height:auto;position:absolute;top:95px;left:150px;font-size:20px;font-weight:bold;}
+div#versionOffer p{line-height:20px;margin-bottom:0;margin-top:0;}
+div#versionOffer span{font-size:23px;line-height:23px;}
+div#oldPrice{height:37px;position:absolute;top:90px;left:145px;z-index:1;font-size:30px;display:none;}
+div#oldPriceCut{background:#fff;height:37px;position:absolute;top:120px;left:140px;z-index:0;display:none;}
+div#oldPriceCutContainer{width:129px;}
+img#oldPriceCutImg{width:129px;height:37px;}
+div#newPrice{height:auto;position:absolute;top:155px;left:140px;color:#E3212F;font-size:36px;font-weight:bold;display:none;}
+div#newPrice p{margin-top:0px;margin-bottom:0px;}
+div#benefits{position:absolute;top:210px;left:17px;right:10px;padding-top:20px;}
+.csc-bulletlist{font-size:13px;line-height:22px;list-style-image:url("../images/checkmark-green-alpha.png");text-align:left;margin-top:0;margin-bottom:0;}
+div#buyButtonImage{width:306px;left:0px;position:absolute;top:349px;}
+div#buyButton{height:80px;width:224px;top:350px;margin:0 auto;}
+div#buyButton a{text-shadow:#404040 1px 1px 1px;font-size:17px;font-family:Helvetica, Arial, sans;font-weight:bold;color:#fff;text-decoration:none;text-indent:38px;display:block;line-height:76px;background:url('../images/button_buy_blank.png') no-repeat center}
+div#buyButton img{position:absolute;top:0px;left:0px;margin-left:39px;margin-right:39px;z-index:1;}
+div#buyLink{height:30px;position:absolute;top:400px;left:10px;right:10px;}
+div#notifierFooter{clear:both;font-size:11px;line-height:11px;color:#666;text-align:center;}
+div#notifierFooter p{margin-top:0px;margin-bottom:0px;}
+div#notifierFooter a{color:#133C8A;}
+p#first{margin-top:15px;}
+.linkImage{height:155px;width:354px;}
+div#imgLink{height:155px;position:absolute;top:0;left:0;width:354px;z-index:1;}
